@@ -1,9 +1,9 @@
 package main
 
 import (
-	"net/http"
-	"net/http/httptest"
-	"testing"
+    "net/http"
+    "net/http/httptest"
+    "testing"
 )
 
 func TestIsValidLogin(t *testing.T) {
